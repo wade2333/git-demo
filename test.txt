@@ -1,4 +1,0 @@
-hello
-login
-master test
-add-login.test
